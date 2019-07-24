@@ -30,7 +30,7 @@ The current approach has good results but also gives false-positives. In some ca
 
 #### Figures
 Figure 1: Preliminary result at midterm presentation. This is with Algorithm Part I complete. Algorithm is able to detect two faces, but does not accurately detect facial features. Nose not detected on human face, and no features are detected on tattoo face.
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure1.png "Figure 1")
+![alt text](/figures/figure1.png "Figure 1")
 
 Figure 2: Preliminary result of Part II at final presentation. Landmarks are correctly identified on human face, but tattoo facial landmarks are incorrect; with misidentification of the convex hull, mouth, and nose. Part II  is complete and implemented without integration of Part I.
 ![alt text](/figures/figure2.png "Figure 2")
