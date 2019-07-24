@@ -33,18 +33,18 @@ Figure 1: Preliminary result at midterm presentation. This is with Algorithm Par
 ![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure1.png "Figure 1")
 
 Figure 2: Preliminary result of Part II at final presentation. Landmarks are correctly identified on human face, but tattoo facial landmarks are incorrect; with misidentification of the convex hull, mouth, and nose. Part II  is complete and implemented without integration of Part I.
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure2.png "Figure 2")
+![alt text](/figures/figure2.png "Figure 2")
 
 Figure 3: Part I, II, III implemented; test for resilience of face region detection 
 and landmarks prediction.
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure3.png "Figure 3a")
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure4.png "Figure 3b")
+![alt text](/figures/figure3.png "Figure 3a")
+![alt text](/figures/figure4.png "Figure 3b")
 
 Figure 4: Part I, II, III implemented and integrated. Display of correct facial region detection regardless of small obstruction or angle change.
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure5.png "Figure 4a")
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure6.png "Figure 4b")
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure7.png "Figure 4c")
-![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure8.png "Figure 4d")
+![alt text](/figures/figure5.png "Figure 4a")
+![alt text](/figures/figure6.png "Figure 4b")
+![alt text](/figures/figure7.png "Figure 4c")
+![alt text](/figures/figure8.png "Figure 4d")
 
 #### References
 A. K. Jain, A. Ross and S. Prabhakar, "An introduction to biometric recognition," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4-20, Jan. 2004. doi:10.1109/TCSVT.2003.818349, URL:http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1262027&isnumber=28212
