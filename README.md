@@ -37,13 +37,12 @@ Figure 2: Preliminary result of Part II at final presentation. Landmarks are cor
 
 Figure 3: Part I, II, III implemented; test for resilience of face region detection 
 and landmarks prediction.
-![alt text](/figures/figure3.png "Figure 3a")
-![alt text](/figures/figure4.png "Figure 3b")
+![alt text](/figures/figure_3.png "Figure 3")
+
 
 Figure 4: Part I, II, III implemented and integrated. Display of correct facial region detection regardless of small obstruction or angle change.
-![alt text](/figures/figure5.png "Figure 4a")
-![alt text](/figures/figure7.png "Figure 4c")
-![alt text](/figures/figure8.png "Figure 4d")
+![alt text](/figures/figure_4.png "Figure 4")
+
 
 #### References
 A. K. Jain, A. Ross and S. Prabhakar, "An introduction to biometric recognition," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4-20, Jan. 2004. doi:10.1109/TCSVT.2003.818349, URL:http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1262027&isnumber=28212
