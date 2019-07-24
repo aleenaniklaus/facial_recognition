@@ -28,7 +28,23 @@ After integrating Haar detection and facial landmarks together (algorithm Part I
 The current approach has good results but also gives false-positives. In some cases, the false-positive results may be desirable, but in the event that is not desirable, we plan to implement a simple neural network to determine human face from static faces such as in Figure I and II. Furthermore, the current approach to overlaying the Gaussian blur is naive and not believable, we plan to configure the filter to blur everything outside of the convex hull, instead of everything outside of the facial region.
 ***
 
-![alt text](https://github.com/aleenawatson/facial_recognition/blob/master/figures/figure1.png "Figure 1")
+#### Figures
+Figure 1: Preliminary result at midterm presentation. This is with Algorithm Part I complete. Algorithm is able to detect two faces, but does not accurately detect facial features. Nose not detected on human face, and no features are detected on tattoo face.
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure1.png "Figure 1")
+
+Figure 2: Preliminary result of Part II at final presentation. Landmarks are correctly identified on human face, but tattoo facial landmarks are incorrect; with misidentification of the convex hull, mouth, and nose. Part II  is complete and implemented without integration of Part I.
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure2.png "Figure 2")
+
+Figure 3: Part I, II, III implemented; test for resilience of face region detection 
+and landmarks prediction.
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure3.png "Figure 3a")
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure4.png "Figure 3b")
+
+Figure 4: Part I, II, III implemented and integrated. Display of correct facial region detection regardless of small obstruction or angle change.
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure5.png "Figure 4a")
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure6.png "Figure 4b")
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure7.png "Figure 4c")
+![alt text](https://github.com/aleenawatson/facial_recognition/master/figures/figure8.png "Figure 4d")
 
 #### References
 A. K. Jain, A. Ross and S. Prabhakar, "An introduction to biometric recognition," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4-20, Jan. 2004. doi:10.1109/TCSVT.2003.818349, URL:http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1262027&isnumber=28212
@@ -36,3 +52,5 @@ A. K. Jain, A. Ross and S. Prabhakar, "An introduction to biometric recognition,
 “Haar-like Feature.” Wikipedia, Wikimedia Foundation, 1 Apr. 2018, en.wikipedia.org/wiki/Haar-like_feature.
 Holczer, Balazs. “Computer Vision - Integral Images.” YouTube, YouTube, 25 Feb. 2018, www.youtube.com/watch?v=x41KFOFGnUE.
 Ramesh, Varun. “Haar Feature Detection for Face Tracking.” YouTube, YouTube, 3 Apr. 2011, www.youtube.com/watch?v=0WBUlRADBd0.
+
+
