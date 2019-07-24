@@ -28,6 +28,8 @@ After integrating Haar detection and facial landmarks together (algorithm Part I
 The current approach has good results but also gives false-positives. In some cases, the false-positive results may be desirable, but in the event that is not desirable, we plan to implement a simple neural network to determine human face from static faces such as in Figure I and II. Furthermore, the current approach to overlaying the Gaussian blur is naive and not believable, we plan to configure the filter to blur everything outside of the convex hull, instead of everything outside of the facial region.
 ***
 
+![alt text](https://github.com/aleenawatson/facial_recognition/blob/master/figures/figure1.png "Figure 1")
+
 #### References
 A. K. Jain, A. Ross and S. Prabhakar, "An introduction to biometric recognition," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4-20, Jan. 2004. doi:10.1109/TCSVT.2003.818349, URL:http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1262027&isnumber=28212
  “Fourier analysis.” Wikipedia, Wikimedia Foundation, 1 Apr. 2018, en.wikipedia.org/wiki/Fourier_analysis
