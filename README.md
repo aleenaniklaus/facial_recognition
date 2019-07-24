@@ -44,12 +44,16 @@ and landmarks prediction.
 Figure 4: Part I, II, III implemented and integrated. Display of correct facial region detection regardless of small obstruction or angle change.
 ![alt text](/figures/figure_4.png "Figure 4")
 
-
+*** 
 #### References
 A. K. Jain, A. Ross and S. Prabhakar, "An introduction to biometric recognition," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4-20, Jan. 2004. doi:10.1109/TCSVT.2003.818349, URL:http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1262027&isnumber=28212
+
  “Fourier analysis.” Wikipedia, Wikimedia Foundation, 1 Apr. 2018, en.wikipedia.org/wiki/Fourier_analysis
+
 “Haar-like Feature.” Wikipedia, Wikimedia Foundation, 1 Apr. 2018, en.wikipedia.org/wiki/Haar-like_feature.
+
 Holczer, Balazs. “Computer Vision - Integral Images.” YouTube, YouTube, 25 Feb. 2018, www.youtube.com/watch?v=x41KFOFGnUE.
+
 Ramesh, Varun. “Haar Feature Detection for Face Tracking.” YouTube, YouTube, 3 Apr. 2011, www.youtube.com/watch?v=0WBUlRADBd0.
 
 
