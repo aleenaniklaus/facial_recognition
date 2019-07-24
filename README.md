@@ -42,7 +42,6 @@ and landmarks prediction.
 
 Figure 4: Part I, II, III implemented and integrated. Display of correct facial region detection regardless of small obstruction or angle change.
 ![alt text](/figures/figure5.png "Figure 4a")
-![alt text](/figures/figure6.png "Figure 4b")
 ![alt text](/figures/figure7.png "Figure 4c")
 ![alt text](/figures/figure8.png "Figure 4d")
 
