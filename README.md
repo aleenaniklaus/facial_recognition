@@ -1,5 +1,6 @@
 # Face Recognition and Video Filter Application
 ##### Computational Photography | Portland State University | Spring 2018
+![alt text](/figures/figure_4.png "Figure 4")
 ***
 Final project for computational photography course taken at Portland State University. This algorithm uses haar features to detect landmarks of the face, including eyes, nose, and mouth. This implementation works on human figures as well as cartoons; similarly to the original Instagram stories and Snapchat facial recognition algorithms.
 ***
